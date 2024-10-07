@@ -1,5 +1,4 @@
 # React + Vite
-
 # News App
 
 A comprehensive news application built with React, HTML, CSS, and JavaScript. The app displays news articles from various categories, keeping users updated with the latest stories worldwide.
